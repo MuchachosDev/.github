@@ -5,7 +5,7 @@ This is the MuchachosDev github page, an organization based in Concordia, Entre 
 
 ### About Us
 
-MuchachosDev is a group of systems degree students who are passionate about building and creating high-quality software. We are continuously learning new technologies and developing our skills to enhance the robustness of our software projects.
+MuchachosDev is a group of systems engineering students who are passionate about building and creating high-quality software. We are continuously learning new technologies and developing our skills to enhance the robustness of our software projects.
 
 ### Our Team
 

@@ -44,24 +44,6 @@ Muchachos.dev es una startup tecnológica basada en Concordia, Entre Ríos. Como
       <sub>Co-fundador</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://github.com/matiasfs99">
-        <img src="https://avatars.githubusercontent.com/u/73618942?v=4" width="100px;" alt="Matias Serantes"/><br />
-        <sub><b>Matias Serantes</b></sub>
-      </a>
-      <br />
-      <sub>Co-fundador</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/JavierTenich">
-        <img src="https://avatars.githubusercontent.com/u/89664979?v=4" width="100px;" alt="Javier Tenich"/><br />
-        <sub><b>Javier Tenich</b></sub>
-      </a>
-      <br />
-      <sub>Co-fundador</sub>
-    </td>
-  </tr>
 </table>
 
 </div>
